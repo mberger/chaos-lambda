@@ -5,7 +5,7 @@
 | (__| | | | (_| | (_) \__ \ | | (_| | | | | | | |_) | (_| | (_| |
  \___|_| |_|\__,_|\___/|___/ |_|\__,_|_| |_| |_|_.__/ \__,_|\__,_|
 </pre>
-- **Updated** by Mberger
+- **Updated**: by Mberger test
 - **Website**: [https://artillery.io/chaos-lambda](https://artillery.io/chaos-lambda)
 - **Source**: [https://github.com/shoreditch-ops/chaos-lambda](https://github.com/shoreditch-ops/chaos-lambda)
 - **Issues**: [https://github.com/shoreditch-ops/chaos-lambda/issues](https://github.com/shoreditch-ops/chaos-lambda/issues)
