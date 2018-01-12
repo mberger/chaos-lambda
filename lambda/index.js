@@ -4,7 +4,7 @@
 var AWS = require('aws-sdk');
 var llamaConfig = require('./config.json');
 
-AWS.config.region = llamaConfig.region || 'eu-west-1';
+AWS.config.region = llamaConfig.region || 'eu-east-1';
 
 exports.handler = function(event, context) {
 console.log('Chaos Llama starting up');
